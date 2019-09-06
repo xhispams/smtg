@@ -1,0 +1,66 @@
+body {
+    font-family: 'Oswald', sans-serif;
+  }
+
+  .hero-section {
+    text-align: center;
+    background-image: url('../img/bg_hero.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    padding-top: 400px;
+
+  .carousel-indicators {
+    bottom: -50px;
+    }
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 60%;
+}
+.contacto {
+    color: #FFFFFF;
+    height: 534px;
+    font-weight: 40px;
+    padding-left: 150px;
+    padding-top: 150px;
+    padding-right: auto;
+    padding-bottom: 333.5px;
+    text-align: center;
+}
+.footer {
+    text-align: center;
+}
+.about {
+    color: #373A3C;
+}
+h1 {
+    font-weight: bold 700;
+    color:#FFFFFF;
+}
+
+h2 {
+    font-weight: 200;
+    color: #FFFFFF;
+}
+
+ul.demo {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.OpenSans {
+    font-family: 'Open Sans', cursive;
+    font-size: 600px;
+}
+
+.nav-link {
+    font-family: 'Helvetica', 'cursive';
+    color: #FFFFFF;
+}
+
+p{
+  font-family: 'Open Sans', cursive;
+  color:#373A3C;
+}
